@@ -4,6 +4,9 @@
 - 😄 저는 현재 학생 입니다
 - 🌱 열심히 배우는중...  
 
+# TODO-LIST
+1. 열심히 알바하며 공부하기
+2. 살좀 빼기
 
 <!--
 **SoohorangE/SoohorangE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
