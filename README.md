@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+---
+- 😄 저는 현재 학생 입니다
+
 <!--
 **SoohorangE/SoohorangE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
