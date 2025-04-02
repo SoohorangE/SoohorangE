@@ -6,7 +6,7 @@
 
 # TODO-LIST
 1. 열심히 알바하며 공부하기
-2. 살좀 빼기
+2. 운동 하며 건강 챙기기
 
 <!--
 **SoohorangE/SoohorangE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
